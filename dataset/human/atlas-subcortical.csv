@@ -1,0 +1,57 @@
+index,label,atlas_name,network_id,hemi,region
+401,LH-Pu,CIT168Subcortical,,left,putamen
+402,LH-Ca,CIT168Subcortical,,left,caudate
+403,LH-NAC,CIT168Subcortical,,left,NAc
+404,LH-EXA,CIT168Subcortical,,left,amygdala
+405,LH-GPe,CIT168Subcortical,,left,pallidum
+406,LH-GPi,CIT168Subcortical,,left,pallidum
+407,LH-SNc_PBP_VTA,CIT168Subcortical,,left,substantia nigra
+408,LH-RN,CIT168Subcortical,,left,brain stem
+409,LH-SNr,CIT168Subcortical,,left,substantia nigra
+410,LH-VeP,CIT168Subcortical,,left,thalamus proper
+411,LH-HN,CIT168Subcortical,,left,brain stem
+412,LH-HTH,CIT168Subcortical,,left,hypothalamus
+413,LH-MN,CIT168Subcortical,,left,brain stem
+414,LH-STH,CIT168Subcortical,,left,hypothalamus
+415,RH-Pu,CIT168Subcortical,,right,putamen
+416,RH-Ca,CIT168Subcortical,,right,caudate
+417,RH-NAC,CIT168Subcortical,,right,NAc
+418,RH-EXA,CIT168Subcortical,,right,amygdala
+419,RH-GPe,CIT168Subcortical,,right,pallidum
+420,RH-GPi,CIT168Subcortical,,right,pallidum
+421,RH-SNc_PBP_VTA,CIT168Subcortical,,right,substantia nigra
+422,RH-RN,CIT168Subcortical,,right,brain stem
+423,RH-SNr,CIT168Subcortical,,right,substantia nigra
+424,RH-VeP,CIT168Subcortical,,right,thalamus proper
+425,RH-HN,CIT168Subcortical,,right,brain stem
+426,RH-HTH,CIT168Subcortical,,right,hypothalamus
+427,RH-MN,CIT168Subcortical,,right,brain stem
+428,RH-STH,CIT168Subcortical,,right,hypothalamus
+429,LH-Pulvinar,ThalamusHCP,,left,thalamus proper
+430,LH-Anterior,ThalamusHCP,,left,thalamus proper
+431,LH-Medio_Dorsal,ThalamusHCP,,left,thalamus proper
+432,LH-Ventral_Latero_Dorsal,ThalamusHCP,,left,thalamus proper
+433,LH-Central_Lateral-Lateral_Posterior-Medial_Pulvinar,ThalamusHCP,,left,thalamus proper
+434,LH-Ventral_Anterior,ThalamusHCP,,left,thalamus proper
+435,LH-Ventral_Latero_Ventral,ThalamusHCP,,left,thalamus proper
+436,RH-Pulvinar,ThalamusHCP,,right,thalamus proper
+437,RH-Anterior,ThalamusHCP,,right,thalamus proper
+438,RH-Medio_Dorsal,ThalamusHCP,,right,thalamus proper
+439,RH-Ventral_Latero_Dorsal,ThalamusHCP,,right,thalamus proper
+440,RH-Central_Lateral-Lateral_Posterior-Medial_Pulvinar,ThalamusHCP,,right,thalamus proper
+441,RH-Ventral_Anterior,ThalamusHCP,,right,thalamus proper
+442,RH-Ventral_Latero_Ventral,ThalamusHCP,,right,thalamus proper
+443,LH_Hippocampus,SubcorticalHCP,,left,hippocampus
+444,LH_Amygdala,SubcorticalHCP,,left,amygdala
+445,RH_Hippocampus,SubcorticalHCP,,right,hippocampus
+446,RH_Amygdala,SubcorticalHCP,,right,amygdala
+447,Cerebellar_Region1,Cerebellum,,midline,cerebellum cortex
+448,Cerebellar_Region2,Cerebellum,,midline,cerebellum cortex
+449,Cerebellar_Region3,Cerebellum,,midline,cerebellum cortex
+450,Cerebellar_Region4,Cerebellum,,midline,cerebellum cortex
+451,Cerebellar_Region5,Cerebellum,,midline,cerebellum cortex
+452,Cerebellar_Region6,Cerebellum,,midline,cerebellum cortex
+453,Cerebellar_Region7,Cerebellum,,midline,cerebellum cortex
+454,Cerebellar_Region8,Cerebellum,,midline,cerebellum cortex
+455,Cerebellar_Region9,Cerebellum,,midline,cerebellum cortex
+456,Cerebellar_Region10,Cerebellum,,midline,cerebellum cortex

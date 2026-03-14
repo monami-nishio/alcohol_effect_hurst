@@ -1,0 +1,71 @@
+﻿V1,primary visual cortex,primary visual cortex,Oc1M
+V1,primary visual cortex,primary visual cortex,Oc1B
+V1,primary visual cortex,primary visual cortex,Oc1
+V2,seconday visual cortex,secondary visual cortex,Oc2Lid
+V2,seconday visual cortex,secondary visual cortex,Oc2MMa
+V2,seconday visual cortex,secondary visual cortex,Oc2MMp
+AU,auditory cortex,auditory cortex,Te1
+S1,parimary somatosensory cortex,primary somatosensory cortex,Par1
+S2,secondary somatosensory cortex,secondary somatosensory cortex,Par2
+M1,primary motor cortex,primary motor cortex,Fr1
+M2,secondary motor cortex,secondary motor cortex,Fr2
+AO,anterior olfactory area,anterior olfactory area,AO
+MOB,main olfactory bulb,olfactory bulb,
+AOB,accessory olfactory bulb,olfactory bulb,
+Tu,olfactory tubuncle,olfactory bulb,
+TeA,temporal association cortex,temporal association cortex,Te2v
+TeA,temporal association cortex,temporal association cortex,Te2d
+Ect,ectorhinal cortices,ectorhinal cortices,Ect
+DLEnt,dorsolateral entorhinal cortices,entorhinal cortices,DLE
+PRh,perirhinal cortices,perirhinal cortices,PRh
+AIV,ventral agranular insular cortices,agranular insular cortices,
+CpuDM,dorsal agranular insular cortices,agranular insular cortices,
+AID,dorsal agranular insular cortices,agranular insular cortices,AI
+AIP,posterior agranular insular cortices,agranular insular cortices,AI
+DI,dysgranular insular cortices,dysgranular insular cortices,DI
+GI,granuar insular cortices,granular insular cortices,GIp
+RSC,retrosplenial cortex,retrosplenial cortex,RSA
+ACC,anterior cingulate cortex,anterior cingulate cortex,Cg1
+ACC,anterior cingulate cortex,anterior cingulate cortex,Cg2
+MCC,medial cingulate cortex,medial cingulate cortex,
+IL,infralimbic area of medial prefrontal cortex,infralimbic area of medial prefrontal cortex,
+PrL,prelimbic area of medial prefrontal cortex,prelimbic area of medial prefrontal cortex,Cg3
+MO,medial orbital cortices,orbital cortices,MO
+LO,lateral orbital cortices,orbital cortices,LO
+CI,claustrum orbital cortices,orbital cortices,
+VO,ventral orbital cortices,orbital cortices,VO
+PtPD,post dorsal parietal association cortices,parietal association cortices,
+LPtA,"parietal association cortex, lateral",parietal association cortices,
+MPtA,medial perietal associative cortices,parietal association cortices,
+FrA,frontal association cortex,frontal association cortex,
+Fr3,"frontal cortex, area3","frontal cortex, area3",Fr3
+Pir,piriform cortex,piriform cortex,Pir
+Pir,piriform cortex,piriform cortex,Pir1
+Pir,piriform cortex,piriform cortex,Pir2
+En,endopitiform nucleus,endopitiform nucleus,
+BLA,basolateral amygdaloid nucleus,amygdala,
+CEA,central amygdaloid nucleus,amygdala,
+MeA,medial nucleus amygdala,amygdala,
+SN,substantia nigra,substantia nigra,
+M,mamillary nucleus,mamillary nucleus,
+MPA,,thalamus,
+ZI,zona incerta thalaamic nucleus,thalamus,
+VM,ventromedial thalamic nucleus,thalamus,
+PLH,peduncular lateral hypothalamus,thalamus,
+VL,ventrolateral thalamic nucleus,thalamus,
+CERE,cerebellum,cerebellum,
+CA,field CA1-3,hippocampus,
+DS,dorsal subiculum,hippocampus,
+HIPP-fi,fimbria hippocampus,hippocampus,
+PaS,parasubiculum,hippocampus,
+PrS,presubiculum,hippocampus,
+CpuD,caudate putamen dorsal part,putamen,
+CpuVL,caudate putamen ventrolateral part,putamen,
+CpuAM,caudate putamen anteriomedial part,putamen,
+AcbSh,"accumenbs nucleus,shell",accumbens,
+SC,superior colliculus,midbrain,
+IC,inferior colliculus,midbrain,
+PA,preoptic area,preoptic area,
+MS,medial septum nucleus,hippocampus,
+DG,dentate gyrus,dentate gyrus,
+Crus2,crus 2 of the ansiform lobule,ansiform lobule,

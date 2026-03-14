@@ -1,0 +1,44 @@
+﻿parcel,region,fullregion1,fullregion2,fullregion3,fullregion4,fullregion5,fullregion6,sa,group
+1,Frontal,Frontal Cortex Area 3,Primary Somatosensory Cortex,,,,,a,cortex
+2,Frontal,Frontal Cortex Area 3,Primary Motor Cortex,,,,,a,cortex
+3,Parietal,Secondary Motor Cortex,Secondary Visual Cortex,Retrosplenial Cortex,Lateral parietal association cortex,Medial parietal association cortex,Primary Somatosensory Cortex,a,cortex
+4,Striatum,Anteromedial Caudate Putamen,,,,,,,subcortex
+6,Thalamus,Ventromedial Thalamic Nucleus,Medial Preoptic Area,Zona Incerta Thalamic Nucleus,Ventrolateral Thalamic Nucleus,,,,subcortex
+7,Cerebellum,Cerebellum,,,,,,,subcortex
+9,Visual,Primary Visual Cortex,Secondary Visual Cortex,,,,,s,cortex
+10,Temporal,Temporal Association Cortex,Dorsolateral Entorhinal Cortex,Perirhinal Cortex,Entorhinal Cortex,,,l,cortex
+11,Frontal,Frontal Cortex Area 3,Primary Motor Cortex,,,,,a,cortex
+12,Frontal,Frontal Association Cortex,Secondary Motor Cortex,,,,,a,cortex
+13,Mid Cingulate,Mid Cingulate Cortex,Retrosplenial Cortex,,,,,a,cortex
+14,Amygdala,Granular Insular Cortex,Dysgrannular Insular Cortex,Central Amygdala,Basolateral Amygdala,,,,subcortex
+15,Striatum,Ventrolateral Caudate Putamen,,,,,,,subcortex
+16, Medial Frontal,Prelimbic Medial Prefrontal Cortex,,,,,,a,cortex
+18,Preoptic Area,Preoptic Area,,,,,,,subcortex
+19,Striatum,Dorsal Caudate Putamen,,,,,,,subcortex
+20,Visual,Retrosplenial Cortex,Primary Visual Cortex,Secondary Visual Cortex,,,,s,cortex
+21,Cerebellum,Cerebellum,,,,,,,subcortex
+22,Anterior Cingulate,Anterior Cingulate Cortex,Prelimbic Medial Prefrontal Cortex,,,,,a,cortex
+23,Somatosensory,Primary Somatosensory Cortex,Secondary Somatosensory Cortex,,,,,s,cortex
+24,Substantia Nigra,Substantia Nigra,,,,,,,subcortex
+25,Cerebellum,Cerebellum,,,,,,,subcortex
+27,Orbital,Medial Orbital Cortex,Ventral Orbital Cortex,,,,,l,cortex
+28,Lateral parietal,Lateral parietal association cortex,,,,,,a,cortex
+30,Hippocampus,Hippocampus Fimbria,Retrosplenial Cortex,Dentate Gyrus,CA,,,,subcortex
+31,Cerebellum,Cerebellum,,,,,,,subcortex
+32, Somatosensory,Primary Somatosensory Cortex,,,,,,s,cortex
+33, Somatosensory,Primary Somatosensory Cortex,,,,,,s,cortex
+34,Insula,Dorsal Agranular Insular Cortex,Ventral Agranular Insular Cortex,Piriform Cortex,,,,a,cortex
+35,Cerebellum,Cerebellum,,,,,,,subcortex
+36, Somatosensory,Primary Somatosensory Cortex,Secondary Somatosensory Cortex,Granular Insular Cortex,Dysgrannular Insular Cortex,,,s,cortex
+37,Orbital,Ventral Orbital Cortex,Ventral Agranular Insular Cortex,Lateral Orbital Cortex,,,,l,cortex
+38,Somatosensory,Primary Somatosensory Cortex,,,,,,s,cortex
+40,Entorhinal,Entorhinal Cortex,Dorsolateral Entorhinal Cortex,Perirhinal Cortex,,,,l,cortex
+41,Somatosensory,Primary Somatosensory Cortex,,,,,,s,cortex
+42,Striatum,Dorsal Caudate Putamen,,,,,,,subcortex
+43,Auditory,Auditory Cortex,Temporal Association Cortex,,,,,s,cortex
+44,Anterior Cingulate,Anterior Cingulate Cortex,Primary Motor Cortex,Secondary Motor Cortex,,,,a,cortex
+45,Motor/Somatosennsory,Secondary Motor Cortex,Primary Somatosensory Cortex,Primary Motor Cortex,,,,s,cortex
+46,Cerebellum,Cerebellum,,,,,,,subcortex
+47,Nucleus Accumbens,Infralimbic medial prefrontal cortex,Medial Amygdala,Nucleus Accumbens Shell,Nucleus Accumbens Shell,,,,subcortex
+49,Parietal,Medial parietal association cortex,Lateral parietal association cortex,Retrosplenial Cortex,Secondary Visual Cortex,,,a,cortex
+50,Motor,Primary Motor Cortex,Secondary Motor Cortex,,,,,s,cortex
